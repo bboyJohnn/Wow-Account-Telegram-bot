@@ -1,6 +1,6 @@
 # 💾 WOW-TG-REG 
 
-`WOW-TG-REG` is a lightweight, asynchronous Telegram bot written in Python (`aiogram 3.x`), designed for direct account management on classic World of Warcraft emulators (MaNGOS / CMangos / TrinityCore). 
+`WOW-TG-REG` is a lightweight, asynchronous Telegram bot written in Python (`aiogram 3.x`), designed for direct account management on classic World of Warcraft emulators (MaNGOS / CMangos / ). 
 
 Forget the clunky web wrappers of the 2000s. Direct MySQL access. Strict SRP6 generation. Maximum performance.
 
